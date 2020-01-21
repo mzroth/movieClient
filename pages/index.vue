@@ -28,6 +28,10 @@
   </div>
 </template>
 
+<!--TODO: Create a main page with a search bar and logo-->
+<!--TODO: Create a results page that calls the search endpoint of the sever and displays the results-->
+<!--TODO: Look into front end testing frameworks -->
+
 <script>
 import Logo from '~/components/Logo.vue'
 
